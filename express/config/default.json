@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://bhupeshMongo:Pass@1234@cluster0-fscuo.mongodb.net/test?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
